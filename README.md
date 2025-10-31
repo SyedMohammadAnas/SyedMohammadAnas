@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I'm a passionate developer exploring C, Python, and JavaScript. I enjoy building efficient algorithms, working on web extensions, and diving into Mobile App development.<br><br>🚀 Currently working on:  <br>- A Personal Finance tracker<br>- A web extension to enhance Youtube experience  <br><br>💡 Interests:  <br>- Competitive programming & algorithm optimization  <br>- System programming with C  <br>- Web and desktop application development<br><br>📚 Learning:  <br>- Learning Mobile App development using  Swift and Kotlin   <br>- Deep diving into browser extension development<br><br>📬 Let's connect!  <br>
+👋 Hi there!<br>I'm a passionate developer exploring C, Python, and JavaScript. I enjoy building efficient algorithms, working on web extensions, and diving into Mobile App development.<br><br>
 
 
 ## 🌐 Socials:
